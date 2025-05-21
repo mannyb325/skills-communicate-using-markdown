@@ -1,1 +1,4 @@
-4
+- [ ] Turn on GitHub Pages
+- [ ] Did you spell your first name correctly?
+- [ ] Did you spell your middle name correctly?
+- [ ] Did you spell your last name correctly?
